@@ -1,0 +1,83 @@
+header{
+	background:linear-gradient(to left,crimson,darkred);
+	color: #FFD700;
+	font-family: century gothic;
+	padding: 30px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 16px;
+}
+a{
+	text-decoration: none;
+	color: #FFD700;
+	margin: 10px;
+}
+.active{
+	color: #F0E68C;
+}
+main{
+	background:
+	font-family: sans-serif;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 15px;
+	font-family: century gothic;
+}
+content{
+	display: flex;
+	justify-content: space-around;
+	font-size: 20px;	
+	text-align: center;
+}
+p{
+	color: antiquewhite;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+u{
+	color: black;
+}
+.content1{
+	text-align: center;
+}
+.content1txt{
+	font-family: sans-serif;
+	font-size:16px ;
+	color: antiquewhite;
+	text-align: center;
+}
+hr{
+	background: black;
+	height: 2px;
+}
+img{
+	height: 54px;
+	width: 54px;
+}	
+.endlogo{
+	height: 65px;
+	width: 65px;
+	justify-content: center;
+	text-align: center;
+}
+footer{
+	background: linear-gradient(to right,crimson,firebrick);
+	color: #FFD700;
+	font-family: sans-serif;
+	padding: 30px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 16px;
+}
+.social{
+	font-family: monospace;
+	color: whitesmoke;
+}
+body{
+	background: linear-gradient(to right,darkslateblue,royalblue);
+}
+.source{
+	color: beige;
+}
