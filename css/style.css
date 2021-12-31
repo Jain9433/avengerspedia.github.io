@@ -5,12 +5,12 @@ header{
 	padding: 30px;
 	display: flex;
 	justify-content: space-around;
-	font-size: 16px;
+	font-size: 10px;
 }
 a{
 	text-decoration: none;
 	color: #FFD700;
-	margin: 10px;
+	margin: 9px;
 }
 .active{
 	color: #F0E68C;
@@ -18,16 +18,16 @@ a{
 main{
 	background:
 	font-family: sans-serif;
-	padding: 20px;
+	padding: 10px;
 	display: flex;
 	justify-content: space-around;
-	font-size: 15px;
+	font-size: 9px;
 	font-family: century gothic;
 }
 content{
 	display: flex;
 	justify-content: space-around;
-	font-size: 20px;	
+	font-size: 10px;	
 	text-align: center;
 }
 p{
@@ -44,7 +44,7 @@ u{
 }
 .content1txt{
 	font-family: sans-serif;
-	font-size:16px ;
+	font-size:8px ;
 	color: antiquewhite;
 	text-align: center;
 }
@@ -69,7 +69,7 @@ footer{
 	padding: 30px;
 	display: flex;
 	justify-content: space-around;
-	font-size: 16px;
+	font-size: 8px;
 }
 .social{
 	font-family: monospace;
